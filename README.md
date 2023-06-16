@@ -1,2 +1,2 @@
 Online version of my cv.
-# steliostsoupas.github.io
+# https://steliostsoupas.github.io
